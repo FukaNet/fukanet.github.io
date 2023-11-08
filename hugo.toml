@@ -1,0 +1,27 @@
+baseURL = 'https://fuka.one'
+languageCode = 'en-us'
+title = 'Fuka Network'
+description = '風花ネットワーク'
+theme = 'pulp'
+canonifyurls = true
+hasCJKLanguage = true
+
+[params]
+    author = "Fuka Network"
+    avatar = "avatar.png"
+    description = '風花ネットワーク'
+    publicationYear = "2023"
+
+[[menu.main]]
+    identifier = "github"
+    # name = "GitHub"
+    pre = "<i class='fab fa-github fa-lg'></i>"
+    url = "https://github.com/FukaNet"
+    weight = 30
+
+[[menu.main]]
+    identifier = "email"
+    # name = "Email"
+    pre = "<i class='fa fa-envelope fa-lg'></i>"
+    url = "mailto:dev@fuka.one"
+    weight = 40
