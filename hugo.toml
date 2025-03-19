@@ -5,12 +5,11 @@ description = '風花ネットワーク'
 theme = 'pulp'
 canonifyurls = true
 hasCJKLanguage = true
+copyright = "2023-2025 Fuka Network"
 
 [params]
-    author = "Fuka Network"
     avatar = "logo.png"
     description = '風花ネットワーク'
-    publicationYear = "2023-2025"
 
 [[menu.main]]
     identifier = "github"
