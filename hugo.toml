@@ -8,9 +8,9 @@ hasCJKLanguage = true
 
 [params]
     author = "Fuka Network"
-    avatar = "avatar.png"
+    avatar = "logo.png"
     description = '風花ネットワーク'
-    publicationYear = "2023"
+    publicationYear = "2023-2025"
 
 [[menu.main]]
     identifier = "github"
